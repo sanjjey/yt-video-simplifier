@@ -23,12 +23,7 @@ Enhance your learning experience by automatically adjusting YouTube playback spe
 
 ### Installation
 
-1. Navigate to the `streamlit_app` directory:
-   ```powershell
-   cd streamlit_app
-   ```
-
-2. Install the required dependencies:
+Install the required dependencies:
    ```powershell
    pip install -r requirements.txt
    ```
